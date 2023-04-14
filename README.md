@@ -7,4 +7,4 @@
 <h3 align="center">-Bem vindo ao perfil GitHub de Beatriz Damazio  👋</h3>
 
 - 💻 Estudando Front End 
-- 📚 Sistemas de Informação
+- 📚Analis e Desenvolvimento de Sistemas
